@@ -46,7 +46,7 @@ Este tema fue inspirado por OneDarkPro y adaptado para proporcionar una mejor ex
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/yoezequiel/ThemeDark/blob/main/LICENSE) para más detalles.
 
 ---
 
