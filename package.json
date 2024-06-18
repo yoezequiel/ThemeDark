@@ -2,7 +2,7 @@
     "name": "yotheme",
     "displayName": "yoTheme",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "yoezequiel",
     "engines": {
         "vscode": "^1.90.0"
@@ -18,5 +18,6 @@
                 "path": "./themes/yoTheme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "resources/img/logo.png"
 }
