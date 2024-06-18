@@ -21,7 +21,7 @@
 
 ## Capturas de Pantalla
 
-![Captura de pantalla del tema](resources/img/image.jpg)
+![Captura de pantalla del tema](https://raw.githubusercontent.com/yoezequiel/ThemeDark/main/resources/img/image.jpg)
 
 ## Características
 
