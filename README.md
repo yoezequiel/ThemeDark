@@ -1,4 +1,4 @@
-# ThemeDark README
+# yoTheme README
 
 ## Working with Markdown
 

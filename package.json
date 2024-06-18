@@ -1,21 +1,22 @@
 {
-  "name": "themedark",
-  "displayName": "ThemeDark",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.90.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "ThemeDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ThemeDark-color-theme.json"
-      }
-    ]
-  }
+    "name": "yotheme",
+    "displayName": "yoTheme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "yoezequiel",
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "yoTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yoTheme-color-theme.json"
+            }
+        ]
+    }
 }
