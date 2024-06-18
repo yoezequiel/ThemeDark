@@ -1,16 +1,53 @@
-# yoTheme README
+# Mi Tema de Color para Visual Studio Code
 
-## Working with Markdown
+¡Bienvenido a **Mi Tema de Color para Visual Studio Code**! Este tema ha sido diseñado para proporcionar una experiencia de codificación agradable y estéticamente atractiva.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Instalación
 
--   Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
--   Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
--   Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. **Requisitos previos**:
 
-## For more information
+    - Asegúrate de tener instalado [Visual Studio Code](https://code.visualstudio.com/).
 
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+2. **Instalación del tema**:
 
-**Enjoy!**
+    - Abre Visual Studio Code.
+    - Ve a la pestaña de **Extensiones** (puedes abrirla con `Ctrl+Shift+X`).
+    - Busca `yoTheme` en la barra de búsqueda.
+    - Haz clic en **Instalar**.
+
+3. **Activación del tema**:
+    - Una vez instalado, ve a **Preferencias** > **Tema de Color** > **yoTheme**.
+    - Selecciona el tema para activarlo.
+
+## Capturas de Pantalla
+
+![Captura de pantalla del tema](resources/img/image.jpg)
+
+## Características
+
+-   Paleta de colores equilibrada y agradable a la vista.
+-   Soporte para varios lenguajes de programación.
+-   Alta legibilidad de código con contraste adecuado.
+-   Colores personalizados para resaltar elementos clave del código.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes sugerencias, problemas o deseas mejorar este tema, por favor sigue estos pasos:
+
+1. **Fork** este repositorio.
+2. Crea una nueva rama con tu característica (`git checkout -b feature/nueva-caracteristica`).
+3. Haz commit de tus cambios (`git commit -m 'Añadir nueva característica'`).
+4. Empuja tu rama (`git push origin feature/nueva-caracteristica`).
+5. Abre un **Pull Request**.
+
+## Créditos
+
+Este tema fue inspirado por OneDarkPro y adaptado para proporcionar una mejor experiencia de usuario.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+¡Gracias por usar **yoTheme**! Esperamos que disfrutes de una mejor experiencia de codificación con nuestro tema.
