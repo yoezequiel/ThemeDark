@@ -12,4 +12,15 @@
 
 ---
 
+## [0.0.4] - 2024-02-28
+
+### ✨ Mejoras  
+- Se mejoró la visualización de las **claves** en archivos TypeScript, haciéndolas más oscuras para una mejor diferenciación.  
+
+### 🔧 Cambios Técnicos  
+- Se agregaron reglas en `tokenColors` para resaltar claves en:  
+  - **TypeScript** (`meta.object-literal.key.ts`)  
+
+---
+
 Mantente atento para futuras actualizaciones y mejoras. Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue o un pull request en nuestro repositorio de GitHub.
